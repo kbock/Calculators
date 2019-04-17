@@ -11,8 +11,9 @@ Features needing to develop for CalculatorGui:
 2.) create bind relationship so that users can either press keys on the keyboard or click on the input buttons
 
 3.) create a secondary display for the calculater to show the metric conversion
-4.) add 'in' and 
-'mm' str either next to or in the text display windows
+
+4.) add 'in' and 'mm' str either next to or in the text display windows
+
 5.) allow for resizing of window and for buttons to scale with it
 
 6.) ...
